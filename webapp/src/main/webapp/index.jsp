@@ -1,26 +1,15 @@
 
-<HTML>
-    <HEAD>
-     <TITLE>JSP: Scriptlets 2</TITLE>
-    </HEAD>
-     <% String bgColor = request.getParameter("COLOR"); %>
-       
-     <% if (bgColor == null) { %>
-           <BODY BGCOLOR="FFFFFF" >
-     <% } else { %>
-           <BODY BGCOLOR="<%= bgColor %>" >
-     <% } %>
-       
-     <H1>Hi Welcome to Cisco </H1>
-     <H1>Hi Welcome to NIIT</H1>
-     <H2>Hi Welcome to Yash</H2>
-     <H2>Hi Welcome to Roop</H2>
-     <H2>Hi Welcome to kanchan</H2>
-     <% if (bgColor == null) { %>
-           You did not supply a color, I used white.
-     <% } else { %>
-           Here is the color you requested.
-     <% } %>
-       
-    </BODY>
-   </HTML>
+<html>
+<head>
+<title>HTML attributes example</title>
+</head>
+<body>
+   <h1>This is normal heading</h1>
+   <h1 style="font-size:10px; color:#ff0000">
+        This is heading with attribute.</h1>
+   <p style="background-color:#ffffcc">
+     As you see, the background of the paragraph has changed.
+     You can do a lot more with style attribute.
+   </p>
+</body>
+</html>
