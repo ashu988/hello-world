@@ -4,7 +4,7 @@
 <title>Welcome ,###### You can do what you want ####### </title>
 </head>
 <body>
-   <h1>This is normal heading</h1>
+   <h2>Welcome ,###### You can do what you want #######</h2>
    <h1 style="font-size:10px; color:#ff0000">
         This is heading with attribute.</h1>
    <p style="background-color:#ffffcc">
