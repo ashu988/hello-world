@@ -1,7 +1,7 @@
 
 <html>
 <head>
-<title>HTML attributes example</title>
+<title>Welcome , You can do what you want </title>
 </head>
 <body>
    <h1>This is normal heading</h1>
