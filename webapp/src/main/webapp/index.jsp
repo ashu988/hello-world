@@ -5,8 +5,6 @@
 </head>
 <body>
    <h2>Welcome ,###### You can do what you want #######</h2>
-   <h2>Welcome ,###### its docker based deployment  #######</h2>
-   <h1>############ welcome Kanchan ######################</h1 
    <h1 style="font-size:10px; color:#ff0000">
         This is heading with attribute.</h1>
    <p style="background-color:#ffffcc">
